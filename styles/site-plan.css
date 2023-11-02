@@ -1,8 +1,8 @@
 /* if you are using any Google fonts change the font names below to your fonts. 
 Any spaces in your font name should be replaced with a +. 
 Fonts are separated by a | */
-@import url('https://fonts.googleapis.com/css?family=IM+Fell+French+Canon+SC|Lato');
-
+/* @import url('https://fonts.googleapis.com/css?family=IM+Fell+French+Canon+SC|Lato'); */
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&family=Martian+Mono:wght@300&family=Roboto:wght@300&family=Sedgwick+Ave+Display&display=swap');
 :root {
   /* change the values below to your colors from your palette */
   --primary-color: #98bdd7   ;
@@ -41,7 +41,8 @@ img {
   margin: 0 auto;
 }
 h1, h2, h3, h4, h5, h6 {
-  font-family: var(--heading-font);
+  /* font-family: var(--heading-font); */
+  font-family: 'Martian Mono', monospace;
   color: var(--headline-color-on-white);
 }
 h2 {
