@@ -33,6 +33,7 @@
       <h3>Website Logo</h3>
       <!-- Replace this with some sort of logo for your site.  A logo can be as simple as the name of your site in a nice font :) -->
       <img src="/images/Korea.png" alt="Logo image">
+      ![image](https://github.com/yjesp/korea/assets/145768768/31c525be-5936-4a63-b8b6-c747b8028320)
       <hr>
       <h2>
         Style Guide
