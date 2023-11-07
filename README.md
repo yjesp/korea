@@ -32,7 +32,7 @@
       <h2>Branding</h2>
       <h3>Website Logo</h3>
       <!-- Replace this with some sort of logo for your site.  A logo can be as simple as the name of your site in a nice font :) -->
-      <img src="/images/Korea.png" alt="Logo image">
+      <img src="images/Korea.png" alt="Logo image">
       <hr>
       <h2>
         Style Guide
@@ -131,8 +131,8 @@
         and 'What to do' to become to know the talented point of Korea]
       </p>
       <p>Images for the Home page</p>
-        <img src="/images/Korea BTS.png" alt="image for homepage">
-        <img src="/images/Korea Palace.png" alt="image for homepage">
+        <img src="images/Korea BTS.png" alt="image for homepage">
+        <img src="images/Korea Palace.png" alt="image for homepage">
 
       </ul>
       <h3>[Page 2]</h3>
@@ -143,8 +143,8 @@
         experience Morden development of Korea.] 
       </p>
       <p>Images for the Page 2</p>
-        <img src="/images/Jeju island.png" alt="image for page">
-        <img src="/images/Gangnam.png" alt="image for page">
+        <img src="images/Jeju island.png" alt="image for page">
+        <img src="images/Gangnam.png" alt="image for page">
 
       </ul>
       <h3>[Page 3]</h3>
@@ -155,8 +155,8 @@
         You can see basic power of Korea] 
       </p>
       <p>Images for the Page 3</p>
-        <img src="/images/Seoul Subway.png" alt="image for page3">
-        <img src="/images/Samsung Electronics.png" alt="image for page3">
+        <img src="images/Seoul Subway.png" alt="image for page3">
+        <img src="images/Samsung Electronics.png" alt="image for page3">
 
       </ul>
       <hr>
@@ -187,4 +187,3 @@
   </body>
 
 </html>
-
