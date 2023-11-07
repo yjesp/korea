@@ -21,7 +21,10 @@
       <h3>Purpose</h3>
       <p>[ I introduce Korea to all of you. By visiting this website, you can become to know
         the beautiful country, Korea. It also provide useful information where is good place 
-        to visit in Korea ] </p>  <!-- change this -->
+        to visit in Korea and what to do in Korea to know Korean culture more. Nowadays, Korea is 
+        famouse for k-pop, k-drama, k-food. This website does its best to show basic power of 
+        Korea that makes those culture phenomenon. If you click every page of this website you can 
+        find very good tip about Korea. And it will help you make a schedule to visit Korea ] </p>  <!-- change this -->
 
 
       <h3>Audience</h3>
@@ -128,31 +131,39 @@
       <h3>Home page</h3>
       <p>
         [Welcome to Korea. In this page you can see 'Where to go' to feel beautiful Korea
-        and 'What to do' to become to know the talented point of Korea]
+        and 'What to do' to become to know the talented point of Korea. Ordinarily, when people
+        visit other country, they want to go to good place and to do unique thing to know and feel 
+        that country. 'Where to go' will show good place to visit and 'What to do' will also guide
+        the thing you have to do in Korea. You can see the beauty of nature and development of Korea.]
       </p>
       <p>Images for the Home page</p>
         <img src="images/Korea BTS.png" alt="image for homepage">
         <img src="images/Korea Palace.png" alt="image for homepage">
 
       </ul>
-      <h3>[Page 2]</h3>
+      <h3>[Where to go]</h3>
       <p>
         [ In this page you are introduced to beautiful and famous Korean place to visit.
         Jeju island, Seolak Mountain, Gangnam is there. In jeju island you can see beautiful
         scenery of sea and coast. Seolak Mountain show you giantic shape. In Gangnam you can
-        experience Morden development of Korea.] 
+        experience Morden development of Korea. Jeju island and Seolak Mountain is representative
+        nature of Korea. In there you can feel beauty of Korea. Gangnam is the most developped area
+        in Korea. So you can see the advaced shape of Korea in there] 
       </p>
       <p>Images for the Page 2</p>
         <img src="images/Jeju island.png" alt="image for page">
         <img src="images/Gangnam.png" alt="image for page">
 
       </ul>
-      <h3>[Page 3]</h3>
+      <h3>[What to do]</h3>
       <p>
         [ In this page, you are introduced to the thing that recommended to do in Korea to know
-        Korea well. Getting in Subway in Seoul, you can experience the safety of Korea. Visiting 
+        Korea better. Getting in Subway in Seoul, you can experience the safety of Korea. Visiting 
         Seoul national University. You can see the future of Korea. Going to Samsung Company.
-        You can see basic power of Korea] 
+        You can see basic power of Korea. Korea is very developped country. In subway, you can see
+        double door system. That is very good for you safety. In Seoul University, you can see the 
+        students who study hard. That is future of our country. In Samsung, you can see very diligent 
+        Korean. That is why Korea can become advanced country.] 
       </p>
       <p>Images for the Page 3</p>
         <img src="images/Seoul Subway.png" alt="image for page3">
