@@ -12,8 +12,8 @@
   <P>Welcome to Korea, Let's begin fantastic journey with Korea</P>
   <nav>
     <a href="index.html">Home</a>
-    <a href="Where_to_go.html">Page2</a>
-    <a href="What_to_do.html">Page3</a> 
+    <a href="Where_to_go.html">Places to Visit</a>
+    <a href="What_to_do.html">Things to Do</a> 
   </nav>
 </head>
 <body>
@@ -28,20 +28,22 @@
     </header>
     <main>
         <section>  
-         <p>Images for the Home page</p>
+         <p></p>
          <img src="images/Korea BTS.png" alt="image for homepage">
          <p>
-          Explanation of BTS
+          BTS is the most famous pop group in Korea.
          </p>
          <img src="images/Korea Palace.png" alt="image for homepage">  
          <p>
-          Explanation about Korean Palace
+          Korean Palace is traditional model of Korean Kingdom.
          </p>   
         </section>
     </main>
 <footer>
   <nav> 
     <a href="index.html">Home</a>
+    <a href="Where_to_go.html">Places to Visit</a>
+    <a href="What_to_do.html">Things to Do</a> 
     <a href="">Contact us</a>
   </nav>
 </footer>
