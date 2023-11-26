@@ -4,6 +4,16 @@
     <meta charset="utf-8">
     <title>Site Plan</title>
     <link type="text/css" rel="stylesheet" href="styles/site-plan.css">
+    <style>
+      img{
+        width:600px ;
+        margin-left: 30px;
+      }
+      nav {
+        background-color:rgb(170, 237, 15);
+    }
+
+    </style>
   </head>
 
   
@@ -27,12 +37,13 @@
      </h>
     </header>
     <main>
-        <section>  
-         <p></p>
+        <section> 
+        <p></p> 
          <img src="images/Korea BTS.png" alt="image for homepage">
          <p>
-          BTS is the most famous pop group in Korea.
-         </p>
+          BTS is the most 
+          fomous pop group in Korea </p>
+          
          <img src="images/Korea Palace.png" alt="image for homepage">  
          <p>
           Korean Palace is traditional model of Korean Kingdom.
