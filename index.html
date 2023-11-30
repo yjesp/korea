@@ -6,12 +6,15 @@
     <link type="text/css" rel="stylesheet" href="styles/site-plan.css">
     <style>
       img{
-        width:600px ;
-        margin-left: 30px;
+        width:800px ;
+        margin-left: 100px;
       }
       nav {
         background-color:rgb(170, 237, 15);
     }
+
+    .BTS { display: flex; margin-bottom: 20px; } 
+    .palace { display: flex; margin-bottom: 20px; } 
 
     </style>
   </head>
@@ -39,14 +42,19 @@
     <main>
         <section> 
         <p></p> 
+        <section class="BTS">
          <img src="images/Korea BTS.png" alt="image for homepage">
          <p>
-          BTS is the most 
-          fomous pop group in Korea </p>
-          
+          BTS is the most fomous pop group in Korea.
+          It is organized in Korea, but travel all around world.
+          Eventually it become the most popular group in the world </p>
+        </section>
+        <section class="palace">
          <img src="images/Korea Palace.png" alt="image for homepage">  
          <p>
           Korean Palace is traditional model of Korean Kingdom.
+          If you want Korean tradtional politics and history, you 
+          may become to know them in this palace.
          </p>   
         </section>
     </main>
