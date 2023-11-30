@@ -7,7 +7,7 @@
     <style>
       img{
         width:800px ;
-        margin-left: 100px;
+        margin-left: 150px;
       }
       nav {
         background-color:rgb(170, 237, 15);
