@@ -2,7 +2,7 @@
     
   <head>
     <meta charset="utf-8">
-    <title>Home Page</title>
+    <title>Place to visit</title>
     <link type="text/css" rel="stylesheet" href="styles/site-plan.css">
     <style>
       img{
@@ -10,11 +10,11 @@
         margin-left: 150px;
       }
       nav {
-        background-color: #98bdd7;
+        background-color:#f0d993;
     }
 
-    .BTS { display: flex; margin-bottom: 20px; } 
-    .palace { display: flex; margin-bottom: 20px; } 
+    .Jeju { display: flex; margin-bottom: 20px; } 
+    .Gangnam { display: flex; margin-bottom: 20px; }
 
     h,p {
       font-family: 'Martian Mono', monospace;
@@ -25,7 +25,7 @@
 
   
 <head>
-  <p>Home</p>
+  <p>Places to Visit</p>
   <P>Welcome to Korea, Let's begin fantastic journey with Korea</P>
   <nav>
     <a href="index.html">Home</a>
@@ -35,30 +35,32 @@
 </head>
 <body>
     <header>
-     <h> Welcome to Korea. In this page you can see 'Where to go' to feel beautiful 
-      Korea and 'What to do' to become to know the talented point of Korea. 
-      Ordinarily, when people visit other country, they want to go to good place 
-      and to do unique thing to know and feel that country. 'Where to go' will 
-      show good place to visit and 'What to do' will also guide the thing you have 
-      to do in Korea. You can see the beauty of nature and development of Korea.
+     <h> 
+      In this page you are introduced to beautiful and famous Korean place to visit. 
+      Jeju island, Seolak Mountain, Gangnam is there. In jeju island you can see beautiful 
+      scenery of sea and coast. Seolak Mountain show you giantic shape. In Gangnam you can 
+      experience Morden development of Korea. Jeju island and Seolak Mountain is representative 
+      nature of Korea. In there you can feel beauty of Korea. Gangnam is the most developped 
+      area in Korea. So you can see the advaced shape of Korea in there
      </h>
     </header>
     <main>
-        <section> 
-        <p></p> 
-        <section class="BTS">
-         <img src="images/Korea BTS.png" alt="image for homepage">
+        <section>  
+         <p></p>
+         <section class="Jeju">
+         <img src="images/Jeju island.png" alt="image for page">
          <p>
-          BTS is the most fomous pop group in Korea.
-          It is organized in Korea, but travel all around world.
-          Eventually it become the most popular group in the world </p>
+          Jeju island the biggest and most beautiful island of Korea.
+          Many people in the world like Jeju island. Expecially the chinese
+          people like this beautiful island.
+         </p>
         </section>
-        <section class="palace">
-         <img src="images/Korea Palace.png" alt="image for homepage">  
+        <section class="Gangnam">
+         <img src="images/Gangnam.png" alt="image for page">
          <p>
-          Korean Palace is traditional model of Korean Kingdom.
-          If you want Korean tradtional politics and history, you 
-          may become to know them in this palace.
+          Gangnam Area is the richest area of Korea. When you 
+          like to feel Koreans prosperity, you can go to Gangnam
+          Area and feel it.
          </p>   
         </section>
     </main>
@@ -68,7 +70,7 @@
     <a href="index.html">Home</a>
     <a href="Where_to_go.html">Places to Visit</a>
     <a href="What_to_do.html">Things to Do</a> 
-    <a href="#">Contact us</a>
+    <a href="">Contact us</a>
   </nav>
 </footer>
 </body>
