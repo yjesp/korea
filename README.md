@@ -2,7 +2,7 @@
     
   <head>
     <meta charset="utf-8">
-    <title>Place to visit</title>
+    <title>Site Plan</title>
     <link type="text/css" rel="stylesheet" href="styles/site-plan.css">
     <style>
       img{
@@ -10,22 +10,24 @@
         margin-left: 150px;
       }
       nav {
-        background-color:#f0d993;
+        background-color: #f5b6a3;
     }
 
-    .Jeju { display: flex; margin-bottom: 20px; } 
-    .Gangnam { display: flex; margin-bottom: 20px; }
+    .Subway { display: flex; margin-bottom: 20px; } 
+    .Samsung { display: flex; margin-bottom: 20px; }
 
     h,p {
       font-family: 'Martian Mono', monospace;
     }
+
+    p.description { border: 1px solid black; margin-left: 20px; }
 
     </style>
   </head>
 
   
 <head>
-  <p>Places to Visit</p>
+  <p>Things to Do</p>
   <P>Welcome to Korea, Let's begin fantastic journey with Korea</P>
   <nav>
     <a href="index.html">Home</a>
@@ -36,37 +38,38 @@
 <body>
     <header>
      <h> 
-      In this page you are introduced to beautiful and famous Korean place to visit. 
-      Jeju island, Seolak Mountain, Gangnam is there. In jeju island you can see beautiful 
-      scenery of sea and coast. Seolak Mountain show you giantic shape. In Gangnam you can 
-      experience Morden development of Korea. Jeju island and Seolak Mountain is representative 
-      nature of Korea. In there you can feel beauty of Korea. Gangnam is the most developped 
-      area in Korea. So you can see the advaced shape of Korea in there
+      In this page, you are introduced to the thing that recommended to do in Korea to know 
+      Korea better. Getting in Subway in Seoul, you can experience the safety of Korea. Visiting 
+      Seoul national University. You can see the future of Korea. Going to Samsung Company. 
+      You can see basic power of Korea. Korea is very developped country. In subway, you can see 
+      double door system. That is very good for you safety. In Seoul University, you can see 
+      the students who study hard. That is future of our country. In Samsung, you can see very 
+      diligent Korean. That is why Korea can become advanced country.
      </h>
     </header>
     <main>
         <section>  
          <p></p>
-         <section class="Jeju">
-         <img src="images/Jeju island.png" alt="image for page">
-         <p>
-          Jeju island the biggest and most beautiful island of Korea.
-          Many people in the world like Jeju island. Expecially the chinese
-          people like this beautiful island.
+         <section class="Subway">
+         <img src="images/Seoul Subway.png" alt="image for page3">
+         <p class="description">
+          Korean Subway is famous for its safety. We strongly recommend you
+          to take Subway when you come to Korea. Because, Korean Subway is 
+          famouse for it's cleaness and safefy.
          </p>
         </section>
-        <section class="Gangnam">
-         <img src="images/Gangnam.png" alt="image for page">
-         <p>
-          Gangnam Area is the richest area of Korea. When you 
-          like to feel Koreans prosperity, you can go to Gangnam
-          Area and feel it.
-         </p>   
+        <section class="Samsung">
+         <img src="images/Samsung Electronics.png" alt="image for page3">
+         <p class="description">
+          Samsung Electronics is the largest company in Korea. When you want
+          to see Koreans basic power, you may go to Samsung Electronics. You 
+          can see many diligent Korean people there.  
+         </p>
+        </section>    
         </section>
     </main>
 <footer>
   <nav> 
-    <a href="site-plan.html">Site-Plan</a>
     <a href="index.html">Home</a>
     <a href="Where_to_go.html">Places to Visit</a>
     <a href="What_to_do.html">Things to Do</a> 
