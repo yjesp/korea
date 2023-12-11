@@ -2,7 +2,7 @@
     
   <head>
     <meta charset="utf-8">
-    <title>Site Plan</title>
+    <title>Home Page</title>
     <link type="text/css" rel="stylesheet" href="styles/site-plan.css">
     <style>
       img{
@@ -10,11 +10,11 @@
         margin-left: 150px;
       }
       nav {
-        background-color: #f5b6a3;
+        background-color: #98bdd7;
     }
 
-    .Subway { display: flex; margin-bottom: 20px; } 
-    .Samsung { display: flex; margin-bottom: 20px; }
+    .BTS { display: flex; margin-bottom: 20px; } 
+    .palace { display: flex; margin-bottom: 20px; } 
 
     h,p {
       font-family: 'Martian Mono', monospace;
@@ -27,7 +27,7 @@
 
   
 <head>
-  <p>Things to Do</p>
+  <p>Fantastic Korea</p>
   <P>Welcome to Korea, Let's begin fantastic journey with Korea</P>
   <nav>
     <a href="index.html">Home</a>
@@ -37,43 +37,40 @@
 </head>
 <body>
     <header>
-     <h> 
-      In this page, you are introduced to the thing that recommended to do in Korea to know 
-      Korea better. Getting in Subway in Seoul, you can experience the safety of Korea. Visiting 
-      Seoul national University. You can see the future of Korea. Going to Samsung Company. 
-      You can see basic power of Korea. Korea is very developped country. In subway, you can see 
-      double door system. That is very good for you safety. In Seoul University, you can see 
-      the students who study hard. That is future of our country. In Samsung, you can see very 
-      diligent Korean. That is why Korea can become advanced country.
+     <h> Welcome to Korea. In this page you can see 'Where to go' to feel beautiful 
+      Korea and 'What to do' to become to know the talented point of Korea. 
+      Ordinarily, when people visit other country, they want to go to good place 
+      and to do unique thing to know and feel that country. 'Where to go' will 
+      show good place to visit and 'What to do' will also guide the thing you have 
+      to do in Korea. You can see the beauty of nature and development of Korea.
      </h>
     </header>
     <main>
-        <section>  
-         <p></p>
-         <section class="Subway">
-         <img src="images/Seoul Subway.png" alt="image for page3">
+        <section> 
+        <p></p> 
+        <section class="BTS">
+         <img src="images/Korea BTS.png" alt="image for homepage">
          <p class="description">
-          Korean Subway is famous for its safety. We strongly recommend you
-          to take Subway when you come to Korea. Because, Korean Subway is 
-          famouse for it's cleaness and safefy.
-         </p>
+          BTS is the most fomous pop group in Korea.
+          It is organized in Korea, but travel all around world.
+          Eventually it become the most popular group in the world </p>
         </section>
-        <section class="Samsung">
-         <img src="images/Samsung Electronics.png" alt="image for page3">
+        <section class="palace">
+         <img src="images/Korea Palace.png" alt="image for homepage">  
          <p class="description">
-          Samsung Electronics is the largest company in Korea. When you want
-          to see Koreans basic power, you may go to Samsung Electronics. You 
-          can see many diligent Korean people there.  
-         </p>
-        </section>    
+          Korean Palace is traditional model of Korean Kingdom.
+          If you want Korean tradtional politics and history, you 
+          may become to know them in this palace.
+         </p>   
         </section>
     </main>
 <footer>
   <nav> 
+    <a href="site-plan.html">Site-Plan</a>
     <a href="index.html">Home</a>
     <a href="Where_to_go.html">Places to Visit</a>
     <a href="What_to_do.html">Things to Do</a> 
-    <a href="">Contact us</a>
+    <a href="#">Contact us</a>
   </nav>
 </footer>
 </body>
